@@ -9,16 +9,14 @@ Building scalable backend systems, mobile applications, cloud infrastructure and
 <a href="https://www.linkedin.com/in/dilanmamani">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:dilanmamanip@gmail.com">
 <img src="https://img.shields.io/badge/Email-dilanmamanip@gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://github.com/DilanMamani">
 <img src="https://img.shields.io/badge/GitHub-DilanMamani-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br><br>
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=2200&color=111111&center=true&vCenter=true&width=850&lines=Backend+Engineering;Cloud+Architecture;Mobile+Development;AI-powered+Applications;Building+software+that+solves+real+problems"/>
 
@@ -26,183 +24,102 @@ Building scalable backend systems, mobile applications, cloud infrastructure and
 
 ---
 
-## About
+# About
 
-I'm **Dilan Mamani**, a Software Engineering student focused on designing scalable software products with clean architecture, strong backend systems and modern cloud infrastructure.
+I'm **Dilan Mamani**, a Software Engineering student from Bolivia with hands-on experience designing and building production-ready software.
 
-My experience focuses on backend engineering, full-stack development, mobile applications, cloud services and AI-powered features.
+I enjoy working across the full development lifecycle—from software architecture and backend APIs to cloud infrastructure, mobile development and AI-powered features. My goal is to create systems that are scalable, maintainable and solve real-world problems.
 
-Currently, I'm leading the development of **Out & About**, a multi-platform tourism ecosystem composed of mobile applications, backend services, cloud infrastructure and operational software.
+**Current roles**
 
-I also work on enterprise systems for insurance companies and automotive service operations at **Punto Axzo**.
-
-My long-term goal is to become a **Senior Software Engineer** specializing in **software architecture, backend engineering and artificial intelligence**.
-
----
-
-## Current Focus
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### Backend
-
-Node.js  
-Express.js  
-REST APIs  
-Authentication  
-RBAC  
-Microservices  
-
-</td>
-<td width="33%" align="center">
-
-### Cloud & Data
-
-AWS  
-Docker  
-Redis  
-Railway  
-Supabase  
-PostgreSQL  
-
-</td>
-<td width="33%" align="center">
-
-### AI & Product
-
-Computer Vision  
-NLP  
-Python  
-TensorFlow  
-Keras  
-OpenCV  
-
-</td>
-</tr>
-</table>
+- Technical Lead — Out & About
+- Full-Stack Software Engineer — Punto Axzo
+- Teaching Assistant — Universidad Católica Boliviana
 
 ---
 
-## Featured Experience
+# Featured Experience
 
-### Technical Lead — Out & About
+## Out & About
 
-Leading the architecture and development of a tourism ecosystem composed of:
+Technical Lead for a multi-platform tourism ecosystem.
 
+**Highlights**
+
+- Backend architecture
 - Operations platform
-- Public website
-- React Native mobile applications
-- Ambassador app
-- AI-powered voice features
+- React Native mobile apps
+- AI voice features
 - QR authentication
-- Cloud infrastructure
-- Scalable backend services
+- AWS cloud infrastructure
 
-**Stack**  
+**Stack**
+
 Node.js · Express · PostgreSQL · Redis · Supabase · AWS · React Native · Next.js
 
 ---
 
-### Full-Stack Software Engineer — Punto Axzo
+## Punto Axzo
 
-Developed a business management platform for insurance companies and automotive service operations.
+Enterprise platform for insurance companies and automotive service operations.
 
-Main responsibilities:
+**Highlights**
 
-- Backend API development
-- React frontend development
-- PostgreSQL database design
+- REST APIs
+- Pricing engine
+- Authentication
 - PDF generation
-- Pricing architecture
-- Authentication workflows
 - Multi-currency support
-- Deployment support
+- PostgreSQL
 
-**Stack**  
-React · Node.js · Express · PostgreSQL · Bootstrap · REST APIs
+**Stack**
 
----
-
-### Artificial Intelligence Projects
-
-Computer vision solutions focused on healthcare and medical image analysis.
-
-Projects include:
-
-- Skin disease detection
-- Breast cancer classification
-- Medical image analysis
-- AI-powered healthcare applications
-
-**Stack**  
-Python · TensorFlow · Keras · OpenCV · React
+React · Node.js · Express · PostgreSQL
 
 ---
 
-## Tech Stack
+## AI Projects
+
+Healthcare applications using Computer Vision and Deep Learning.
+
+- Breast Cancer Classification
+- Skin Disease Detection
+- Medical Image Analysis
+
+Python · TensorFlow · Keras · OpenCV
+
+---
+
+# Technologies
 
 <div align="center">
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,dart"/>
-
-<br>
-
-### Frontend & Mobile
-
-<img src="https://skillicons.dev/icons?i=react,next,flutter,html,css,bootstrap"/>
-
-<br>
-
-### Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase,redis"/>
-
-<br>
-
-### Cloud & Tools
-
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,dart,react,next,nodejs,express,flutter,postgres,supabase,redis,docker,aws,git,github,vscode&perline=10"/>
 
 </div>
 
 ---
 
-## Selected Technologies
+# Engineering Interests
 
-<table>
-<tr>
-<td>Backend Engineering</td>
-<td>System Architecture</td>
-<td>Cloud Infrastructure</td>
-</tr>
-<tr>
-<td>REST APIs</td>
-<td>Authentication</td>
-<td>Database Design</td>
-</tr>
-<tr>
-<td>React Native</td>
-<td>Artificial Intelligence</td>
-<td>Technical Leadership</td>
-</tr>
-</table>
+- Backend Engineering
+- Software Architecture
+- Distributed Systems
+- Cloud Infrastructure
+- Artificial Intelligence
+- Mobile Development
+- Technical Leadership
 
 ---
 
-## Philosophy
+# Philosophy
 
-> Great software is not only about writing code.
-
-It is about understanding problems, designing scalable architectures, building maintainable systems and creating products that people genuinely enjoy using.
+> Great software is built by understanding problems first and writing code second.
 
 ---
 
 <div align="center">
 
-### Building software that solves real-world problems.
+### Let's build something meaningful.
 
 </div>
