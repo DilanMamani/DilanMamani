@@ -1,149 +1,128 @@
-<h1 align="center">Hi, I'm Dilan Mamani</h1>
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3500&pause=1000&color=2F81F7&center=true&vCenter=true&width=800&lines=Software+Engineering+Student;Full-Stack+Developer;Technical+Lead;Backend+%26+Cloud+Engineer;Building+Scalable+Software;Future+Software+Architect" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=220&section=header&text=Dilan%20Mamani&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Backend%20%26%20Cloud%20%7C%20AI%20%26%20Architecture&descSize=18&descAlignY=55" />
 
-<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Software+Engineering+Student;Technical+Lead+at+Out+%26+About;Full-Stack+Engineer+at+Punto+Axzo;Building+scalable+software+systems;Focused+on+Backend%2C+Cloud%2C+AI+and+Architecture" />
+
+<br/>
+
+<a href="https://www.linkedin.com/in/dilanmamani/">
+  <img src="https://img.shields.io/badge/LinkedIn-Dilan%20Mamani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 <a href="https://github.com/DilanMamani">
-<img src="https://img.shields.io/github/followers/DilanMamani?label=Followers&style=for-the-badge">
+  <img src="https://img.shields.io/badge/GitHub-DilanMamani-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/dilanmamani/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-</p>
+</div>
 
 ---
 
-# About Me
+## About Me
 
-I'm a Software Engineering student passionate about designing scalable backend systems and building real-world software products.
+I am a Software Engineering student focused on building real-world software products with strong backend systems, clean architecture and modern cloud infrastructure.
 
-My experience ranges from backend APIs and mobile applications to cloud infrastructure, software architecture and AI-powered solutions.
+My work combines full-stack development, mobile applications, REST APIs, database design, AI-powered features and deployment workflows. I enjoy leading technical decisions, designing scalable systems and turning ideas into production-ready software.
 
-I enjoy solving complex engineering problems, designing scalable systems and leading technical projects.
-
-Currently I'm focused on becoming a Software Architect specializing in Backend Engineering, Cloud Infrastructure and Artificial Intelligence.
+My long-term goal is to become a Senior Software Engineer specializing in Software Architecture, Backend Engineering and Artificial Intelligence.
 
 ---
 
-# Tech Stack
+## Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,ts,js,python,java,flutter,postgres,supabase,redis,docker,aws,git,github,vscode&perline=8"/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,dart,react,next,nodejs,express,flutter,postgres,supabase,redis,docker,aws,git,github,vscode&perline=9" />
 
-</p>
-
----
-
-# Featured Projects
-
-## Out & About
-
-Technical Lead of a multi-platform tourism ecosystem.
-
-Features:
-
-- Backend Architecture
-- Operations Platform
-- React Native Apps
-- AI Voice Features
-- AWS Cloud Infrastructure
-- Redis Cache
-- PostgreSQL
-- Supabase
-- QR Authentication
-- Google Places Integration
-
-**Tech**
-
-Node.js • Express • React Native • PostgreSQL • Redis • AWS • Supabase
+</div>
 
 ---
 
-## Punto Axzo
+## Featured Work
 
-Full Stack Engineer for an insurance and automotive operations platform.
+<table>
+<tr>
+<td width="50%">
 
-Highlights
+### Out & About
 
-- Business Management Platform
-- REST APIs
-- Responsive React Frontend
-- PostgreSQL Database
-- Pricing Architecture
-- Authentication
-- PDF Generation
-- Email Services
+Technical Lead for a multi-platform tourism ecosystem with mobile apps, operations platform, backend services, AI voice features and cloud infrastructure.
 
-**Tech**
+**Stack:**  
+Node.js · Express · React Native · PostgreSQL · Supabase · AWS · Redis
 
-React • Node.js • Express • PostgreSQL
+</td>
+<td width="50%">
 
----
+### Punto Axzo
 
-## AI Healthcare Projects
+Full-stack business management platform for insurance companies and automotive service operations.
 
-Computer Vision applications for healthcare.
+**Stack:**  
+React · Node.js · Express · PostgreSQL · Bootstrap · REST APIs
 
-Projects include:
+</td>
+</tr>
 
-- Skin Disease Detection
-- Breast Cancer Classification
-- Medical Image Analysis
+<tr>
+<td width="50%">
 
-**Tech**
+### Healthcare AI
 
-Python • TensorFlow • OpenCV • React
+Computer vision applications for medical image analysis, including skin disease detection and breast cancer classification.
 
----
+**Stack:**  
+Python · TensorFlow · Keras · OpenCV · React
 
-# Current Interests
+</td>
+<td width="50%">
 
-- Backend Engineering
-- Distributed Systems
-- Cloud Computing
-- Software Architecture
-- Artificial Intelligence
-- DevOps
-- System Design
+### Cloud & Backend Services
 
----
+Microservices and backend systems focused on APIs, databases, authentication, deployment and scalable architecture.
 
-# GitHub Analytics
+**Stack:**  
+Node.js · Docker · PostgreSQL · AWS · CI/CD
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DilanMamani&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilanMamani&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-# Connect With Me
+## Current Focus
 
-<p align="center">
+<div align="center">
 
-<a href="https://www.linkedin.com/in/dilanmamani/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+<img src="https://img.shields.io/badge/Backend%20Engineering-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/Software%20Architecture-0D1117?style=for-the-badge&logo=diagramsdotnet&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/Cloud%20Infrastructure-0D1117?style=for-the-badge&logo=amazonaws&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-0D1117?style=for-the-badge&logo=openai&logoColor=58A6FF" />
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
+</div>
 
 ---
 
-<p align="center">
+## GitHub Analytics
 
-Building software that scales.
+<div align="center">
 
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DilanMamani&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilanMamani&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DilanMamani&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=120&section=footer" />
+
+</div>
