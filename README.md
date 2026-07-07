@@ -1,254 +1,166 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,40:1e3a8a,100:3b82f6&text=Dilan%20Mamani&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20Developer%20%7C%20Technical%20Lead&descAlignY=58"/>
+# Dilan Mamani
 
-<br>
+### Software Engineering Student  
+### Full-Stack Developer · Technical Lead · Backend · Cloud · AI
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=2500&color=2563EB&center=true&vCenter=true&width=850&lines=Building+software+that+scales.;Backend+Engineering.;Mobile+Development.;Cloud+Architecture.;Artificial+Intelligence."/>
-
-<br><br>
+<br />
 
 <a href="https://www.linkedin.com/in/dilanmamani">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 <a href="mailto:dilanmamanip@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/DilanMamani">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://github.com/DilanMamani">
-<img src="https://img.shields.io/github/followers/DilanMamani?style=for-the-badge"/>
-</a>
+<br />
+<br />
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=2800&pause=1200&color=000000&center=true&vCenter=true&width=700&lines=Building+software+that+solves+real+problems.;Designing+backend+systems+and+cloud+infrastructure.;Creating+full-stack%2C+mobile+and+AI-powered+products." />
 
 </div>
 
----
-
-# About
-
-I'm **Dilan Mamani**, a Software Engineering student passionate about designing scalable software products.
-
-My experience focuses on backend engineering, distributed systems, mobile applications, cloud infrastructure and AI-powered products.
-
-Currently I'm leading the development of **Out & About**, a tourism platform composed of mobile applications, cloud infrastructure and operational software, while also developing enterprise systems for insurance companies at **Punto Axzo**.
-
-My long-term goal is becoming a Software Architect specialized in distributed backend systems and Artificial Intelligence.
+<br />
 
 ---
 
-# Current Focus
+## About
+
+I am a Software Engineering student focused on building real-world software products with clean architecture, scalable backend systems and modern cloud infrastructure.
+
+Currently, I work as **Technical Lead at Out & About**, where I help design and build a multi-platform tourism ecosystem with mobile applications, backend services, AI-powered voice features, cloud storage and operational tools.
+
+I also worked as **Full-Stack Software Engineer at Punto Axzo**, developing a business management platform for insurance companies and automotive service operations.
+
+My long-term goal is to become a **Senior Software Engineer** specializing in **software architecture, backend engineering and artificial intelligence**.
+
+---
+
+## Selected Work
 
 <table>
 <tr>
+<td width="50%" valign="top">
 
-<td width="33%" align="center">
+### Out & About
 
-### Backend
+Multi-platform tourism ecosystem for users, ambassadors and operations teams.
 
-Node.js
+**Role**  
+Technical Lead
 
-Express
+**Built with**  
+Node.js · Express · React Native · Next.js · PostgreSQL · Supabase · Redis · AWS
 
-REST APIs
-
-Authentication
-
-RBAC
-
-Microservices
+**Focus**  
+Architecture · Backend · Mobile · Cloud · AI Voice · QR Systems
 
 </td>
+<td width="50%" valign="top">
 
-<td width="33%" align="center">
+### Punto Axzo
 
-### Cloud
+Business management platform for insurance and automotive service operations.
 
-AWS
+**Role**  
+Full-Stack Software Engineer
 
-Docker
+**Built with**  
+React · Node.js · Express · PostgreSQL · Bootstrap · REST APIs
 
-Redis
-
-Railway
-
-Supabase
-
-PostgreSQL
+**Focus**  
+Quotations · Pricing · Customers · Brokers · Vehicles · PDF Generation
 
 </td>
+</tr>
 
-<td width="33%" align="center">
+<tr>
+<td width="50%" valign="top">
 
-### AI
+### AI Healthcare Projects
 
-Computer Vision
+Computer vision projects for medical image analysis.
 
-NLP
+**Built with**  
+Python · TensorFlow · Keras · OpenCV · React
 
-Python
-
-TensorFlow
-
-Keras
-
-OpenCV
+**Focus**  
+Skin disease detection · Breast cancer classification · Medical image analysis
 
 </td>
+<td width="50%" valign="top">
 
+### Backend & Cloud Services
+
+APIs, authentication flows, database architecture and deployment workflows.
+
+**Built with**  
+Node.js · PostgreSQL · Docker · AWS · Railway · CI/CD
+
+**Focus**  
+Scalable APIs · Cloud infrastructure · System design · DevOps
+
+</td>
 </tr>
 </table>
 
 ---
 
-# Featured Experience
-
-## Technical Lead — Out & About
-
-**2026 — Present**
-
-Leading the architecture and development of a tourism ecosystem composed of:
-
-- Operations Platform
-- Public Website
-- React Native User App
-- Ambassador App
-- AI Voice Features
-- QR Authentication
-- Cloud Infrastructure
-
-**Stack**
-
-Node.js • Express • PostgreSQL • Redis • Supabase • AWS • React Native • Next.js
-
----
-
-## Full Stack Engineer — Punto Axzo
-
-Developed a business management platform for insurance companies and automotive operations.
-
-Main responsibilities:
-
-- Backend API development
-- React frontend
-- PostgreSQL database
-- PDF generation
-- Pricing engine
-- Authentication
-- Multi-currency support
-- Deployment
-
----
-
-## Artificial Intelligence Projects
-
-Computer Vision solutions including:
-
-- Skin Disease Detection
-- Breast Cancer Classification
-- Medical Image Analysis
-- AI-powered Healthcare Applications
-
----
-
-# Tech Stack
+## Technologies
 
 <div align="center">
 
-### Languages
+### Languages  
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,dart" />
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,dart"/>
+### Frontend & Mobile  
+<img src="https://skillicons.dev/icons?i=react,next,flutter,html,css,bootstrap" />
 
-<br><br>
+### Backend & Data  
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase,redis" />
 
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,next,flutter,html,css,bootstrap"/>
-
-<br><br>
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase,redis"/>
-
-<br><br>
-
-### Cloud
-
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode"/>
+### Cloud & Tools  
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode" />
 
 </div>
 
 ---
 
-# Selected Technologies
+## Current Focus
 
 <table>
 <tr>
 <td>Backend Engineering</td>
-<td>System Architecture</td>
+<td>Software Architecture</td>
 <td>Cloud Infrastructure</td>
 </tr>
-
 <tr>
-<td>REST APIs</td>
-<td>Authentication</td>
-<td>Database Design</td>
-</tr>
-
-<tr>
-<td>React Native</td>
 <td>Artificial Intelligence</td>
+<td>Scalable Systems</td>
 <td>Technical Leadership</td>
 </tr>
-
 </table>
 
 ---
 
-# GitHub Analytics
+## GitHub
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DilanMamani&show_icons=true&rank_icon=github&hide_border=true"/>
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=DilanMamani&show_icons=true&hide_border=true&title_color=000000&text_color=333333&icon_color=000000&bg_color=ffffff" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilanMamani&layout=compact&hide_border=true"/>
-
-<br><br>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=DilanMamani&theme=github"/>
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilanMamani&layout=compact&hide_border=true&title_color=000000&text_color=333333&bg_color=ffffff" />
 
 </div>
 
 ---
 
-# Philosophy
-
-> Great software isn't only about writing code.
-
-It is about understanding problems, designing scalable architectures, building maintainable systems and creating products that people genuinely enjoy using.
-
----
-
-# Let's Connect
-
 <div align="center">
 
-<a href="https://www.linkedin.com/in/dilanmamani">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:dilanmamanip@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-dilanmamanip@gmail.com-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
+### Building thoughtful software for real-world problems.
 
 </div>
-
-<br>
-
-<div align="center">
-
-**Building software that solves real-world problems.**
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0f172a,40:1e3a8a,100:3b82f6"/>
